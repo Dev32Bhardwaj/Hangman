@@ -1,0 +1,6 @@
+KRIS:['hello','hi','love','lovely']
+SHAAN:['hello', 'hi', 'madge']
+DEV:['floccinaucinihipilification']
+KLMN:['skift', 'cacao', 'dojos', 'birky']
+ABCD:['arrau', 'sagan']
+PB:['tahrs', 'vault']
